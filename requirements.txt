@@ -1,0 +1,8 @@
+numpy
+scipy
+dipy
+fury
+matplotlib
+nilearn
+osfclient
+pybids==0.14.0
